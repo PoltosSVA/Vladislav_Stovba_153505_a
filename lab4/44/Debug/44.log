@@ -1,3 +1,0 @@
-﻿  44.cpp
-D:\c++\lab4\44\44.cpp(59,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  44.vcxproj -> D:\c++\lab4\1\Debug\44.exe
