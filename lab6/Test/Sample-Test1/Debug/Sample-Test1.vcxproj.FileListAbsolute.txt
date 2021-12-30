@@ -1,0 +1,4 @@
+D:\c++\lab6\Test\Sample-Test1\Debug\Sample-Test1.vcxproj.CopyComplete
+D:\c++\lab6\Test\Sample-Test1\Debug\Sample-Test1.exe
+D:\c++\lab6\Test\Sample-Test1\Debug\gtest.pdb
+D:\c++\lab6\Test\Sample-Test1\Debug\gtest_main.pdb
