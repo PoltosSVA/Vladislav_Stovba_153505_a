@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\c++\lab5\Google_Test\test.cpp(14,3): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\c++\lab5\Google_Test\test.cpp(14,3): warning C4056: переполнение при арифметических операциях с константой с плавающей точкой
+D:\c++\lab5\Google_Test\test.cpp(20,2): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\c++\lab5\Google_Test\test.cpp(20,2): warning C4056: переполнение при арифметических операциях с константой с плавающей точкой
+D:\c++\lab5\Google_Test\test.cpp(24,2): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\c++\lab5\Google_Test\test.cpp(28,2): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Google_Test.vcxproj -> D:\c++\lab5\Google_Test\Debug\Google_Test.exe

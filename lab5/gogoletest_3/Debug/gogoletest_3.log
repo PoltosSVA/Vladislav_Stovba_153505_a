@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\c++\lab5\gogoletest_3\test.cpp(10,10): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+D:\c++\lab5\gogoletest_3\test.cpp(16,3): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  gogoletest_3.vcxproj -> D:\c++\lab5\Google_Test\Debug\gogoletest_3.1.exe

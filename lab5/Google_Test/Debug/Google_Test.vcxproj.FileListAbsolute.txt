@@ -1,0 +1,4 @@
+D:\c++\lab5\Google_Test\Debug\Google_Test.vcxproj.CopyComplete
+D:\c++\lab5\Google_Test\Debug\Google_Test.exe
+D:\c++\lab5\Google_Test\Debug\gtest.pdb
+D:\c++\lab5\Google_Test\Debug\gtest_main.pdb
