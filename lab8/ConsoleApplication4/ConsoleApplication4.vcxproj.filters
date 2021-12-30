@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Крыса">
+      <UniqueIdentifier>{4e90ebb7-fa8d-46e4-a62e-4be711fb2696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Функци">
+      <UniqueIdentifier>{7945570c-4ea0-4ff2-b573-a2a52bde9b8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="prov">
+      <UniqueIdentifier>{f603b534-3cc5-412d-837e-096089422c9f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="rat.cpp">
+      <Filter>Крыса</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>Функци</Filter>
+    </ClCompile>
+    <ClCompile Include="prov.cpp">
+      <Filter>prov</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rat.h">
+      <Filter>Крыса</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>Функци</Filter>
+    </ClInclude>
+    <ClInclude Include="prov.h">
+      <Filter>prov</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
