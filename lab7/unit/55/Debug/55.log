@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\c++\lab7\unit\55\test.cpp(8,3): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_TRUE"
+D:\c++\lab7\unit\55\test.cpp(15,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_TRUE"
+D:\c++\lab7\unit\55\test.cpp(22,5): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_TRUE"
+  55.vcxproj -> D:\c++\lab7\unit\1\Debug\55.exe

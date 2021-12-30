@@ -1,0 +1,4 @@
+﻿  9.cpp
+D:\c++\lab7\9\9.cpp(36,41): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\c++\lab7\9\9.cpp(48,8): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  9.vcxproj -> D:\c++\lab7\ConsoleApplication1\Debug\9.exe

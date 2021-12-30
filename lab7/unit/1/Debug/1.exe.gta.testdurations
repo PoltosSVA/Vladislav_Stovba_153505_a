@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\c++\lab7\unit\1\Debug\1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Case1.task1" Duration="1" />
+    <TestDuration Test="Case2.task1" Duration="1" />
+    <TestDuration Test="Case3.task1" Duration="1" />
+    <TestDuration Test="Case4.task1" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

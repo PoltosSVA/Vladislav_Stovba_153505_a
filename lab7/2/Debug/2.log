@@ -1,0 +1,5 @@
+﻿  2.cpp
+D:\c++\lab7\2\2.cpp(65,41): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\c++\lab7\2\2.cpp(84,8): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\c++\lab7\2\2.cpp(98,34): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  2.vcxproj -> D:\c++\lab7\ConsoleApplication1\Debug\2.exe
