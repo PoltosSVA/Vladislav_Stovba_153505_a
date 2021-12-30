@@ -1,0 +1,6 @@
+﻿  avtor.cpp
+C:\Users\Vlad\source\repos\3\avtor.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  The contents of <filesystem> are available only with C++17 or later.
+  file.cpp
+  Создание кода...
+  3.vcxproj -> C:\Users\Vlad\source\repos\ConsoleApplication2\Debug\3.exe
