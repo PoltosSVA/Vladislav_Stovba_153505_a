@@ -24,7 +24,7 @@ int main() {
 			break;
 
 		}
-		else {
+		else (y>num){
 			cout << "net_1"<<endl;
 			break;
 		}
@@ -39,7 +39,7 @@ int main() {
 			break;
 
 		}
-		else {
+		else(u>num) {
 			cout << "net_2" << endl;
 			break;
 		}
@@ -52,7 +52,7 @@ int main() {
 			cout << "Da_3" << endl;
 			break;
 		}
-		else {
+		else(p>num) {
 			cout << "net_3" << endl;
 			break;
 		}
