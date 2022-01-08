@@ -18,7 +18,7 @@ int main() {
 				col++;
 			}
 		}
-		cout << "\t" << col << endl;;
+		cout << "\t" << col << endl;
 		step--;
 	}
 
