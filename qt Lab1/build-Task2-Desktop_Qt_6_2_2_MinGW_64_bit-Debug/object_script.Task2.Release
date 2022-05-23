@@ -1,0 +1,17 @@
+release/canvas.o
+release/circle.o
+release/figure.o
+release/hexagon.o
+release/main.o
+release/mainscene.o
+release/mainwindow.o
+release/myfigure.o
+release/point.o
+release/rectangle.o
+release/rhombus.o
+release/square.o
+release/star.o
+release/tools.o
+release/triangle.o
+release/moc_canvas.o
+release/moc_mainwindow.o

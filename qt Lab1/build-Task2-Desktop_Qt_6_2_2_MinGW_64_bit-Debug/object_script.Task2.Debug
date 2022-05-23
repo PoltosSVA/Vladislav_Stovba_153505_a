@@ -1,0 +1,17 @@
+debug/canvas.o
+debug/circle.o
+debug/figure.o
+debug/hexagon.o
+debug/main.o
+debug/mainscene.o
+debug/mainwindow.o
+debug/myfigure.o
+debug/point.o
+debug/rectangle.o
+debug/rhombus.o
+debug/square.o
+debug/star.o
+debug/tools.o
+debug/triangle.o
+debug/moc_canvas.o
+debug/moc_mainwindow.o

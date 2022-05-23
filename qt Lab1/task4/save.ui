@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Save</class>
+ <widget class="QMainWindow" name="Save">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>419</width>
+    <height>456</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>60</y>
+      <width>304</width>
+      <height>273</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_3">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QLabel" name="label_3">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Отчество</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Имя</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_2">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Фамилия</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_4">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Название</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_6">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Издательство</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_7">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Станицы</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_5">
+           <property name="styleSheet">
+            <string notr="true">font: 700 12pt &quot;Segoe UI&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Год издания</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout">
+         <item>
+          <widget class="QLineEdit" name="Second"/>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="sername"/>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="Name"/>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="NAZV"/>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="IZD"/>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="Stran">
+           <property name="minimum">
+            <number>1</number>
+           </property>
+           <property name="maximum">
+            <number>1500</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="Date">
+           <property name="minimum">
+            <number>1564</number>
+           </property>
+           <property name="maximum">
+            <number>2022</number>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton">
+       <property name="text">
+        <string>Сохранить</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>419</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
